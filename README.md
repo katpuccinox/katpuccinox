@@ -51,12 +51,5 @@
 
 ---
 
-### ✨ Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=katpuccinox&label=Profile%20views&color=0e75b6&style=flat" alt="katpuccinox" />
-</p>
-
----
-
 ### ✨ Fun Quote
 > "As a child, I wanted to predict the weather, and after many changes in direction, Data Science has brought me full circle" 🚀
