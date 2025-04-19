@@ -33,20 +33,20 @@
 - Data Applications in Formula 1 Racing
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=katpuccinox&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=katpuccinox&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katpuccinox&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🌎 Let's Connect
 <p align="left">
 <a href="https://www.linkedin.com/in/alba-s-093242259/" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=katpuccinox&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=katpuccinox&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katpuccinox&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
